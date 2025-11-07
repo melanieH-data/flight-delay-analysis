@@ -7,7 +7,6 @@
 # Student details:
 # Last name: Hand
 # First name: Melanie
-# Student number: n11484594
 
 # Load required libraries
 library(tidyverse)
@@ -303,3 +302,4 @@ ks.test(x = delay_lm_fort$.stdresid, y = "pnorm")
 
 # The p-value is 2.2e-16. There is sufficient evidence to reject the hypothesis 
 # of the data being normally distributed
+
