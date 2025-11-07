@@ -1,2 +1,3 @@
 # flight-delay-analysis
-In this project, flight arrival and departure delay data is analysed and tested for: independence to airline, relationship between arrival and dpearture delays.
+In this project, flight arrival and departure delay data is analysed and tested for: independence to airline, relationship between arrival and dpearture delays.  
+Distribution of the data is first visualised through histograms and box-plots. Hypothesis testing is then performed to determine whether the proportion of late flights is independent of airline. And finally, linear regression is used to examine the relationship between arrival delay and departure delay. All analyses performed using R.
