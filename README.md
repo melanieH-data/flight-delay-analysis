@@ -6,5 +6,5 @@ Distribution of the data is first visualised through histograms and box-plots. H
 ## Skills Demonstrated
 - R for statistical analysis
 - Hypothesis testing and regression
-- Data visualization in R
+- Data visualisation in R
 - Interpretation of airline performance metrics
